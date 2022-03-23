@@ -1,0 +1,24 @@
+.CharMenu {
+  position: fixed;
+  z-index: 10000;
+  width: 150px;
+  background-color: #1b1a1a;
+  border-radius: 5px;
+  display: none;
+}
+
+.CharMenu .charOption {
+  padding: 8px 10px;
+  font-size: 15px;
+  color: #eee;
+  cursor: pointer;
+  border-radius: inherit;
+}
+
+.CharMenu .charOption:hover {
+  background-color: #343434;
+}
+
+.CharMenu.visible {
+  display: block;
+}

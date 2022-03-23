@@ -1,0 +1,23 @@
+{
+  "Beach": {
+    "imageName": "beach.jpg",
+    "Waldo": {
+      "minX": 1829,
+      "minY": 701,
+      "maxX": 1886,
+      "maxY": 807
+    },
+    "Odlaw": {
+      "minX": 305,
+      "minY": 670,
+      "maxX": 334,
+      "maxY": 752
+    },
+    "Wizard": {
+      "minX": 794,
+      "minY": 663,
+      "maxX": 845,
+      "maxY": 737
+    }
+  }
+}

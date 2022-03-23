@@ -1,0 +1,8 @@
+.GameWrapper {
+  margin-top: 140px;
+}
+
+.levelImage {
+  width: 3000px;
+  cursor: pointer;
+}
